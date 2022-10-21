@@ -1,0 +1,53 @@
+
+/* tagline  */
+.tagline:hover {
+    background-color: #c2c1c1;
+    transition-duration: .2s;
+    border-bottom: 5px solid white;
+}
+
+.tagline-one li a:hover{
+    color: #ff9d00;
+    font-size: 17px;
+    transition-duration: 0.5s;
+    }
+.tagline-two i:hover {
+    transition-duration: 0.8s;
+    color: black;
+}
+    .nav-link:hover {
+    background-color: #12111123;
+    transition: 2s;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+
+} 
+.nav-link a:hover {
+    color: black;
+    transition-duration: .9s;
+    text-shadow: 1px 2px 1px goldenrod;
+}
+.twoX-2:hover {
+    height: 272px;
+    transition: 2.5s;
+}
+.twoX-1:hover{
+    height: 295px;
+    transition: .5s;
+    box-shadow: 0 0 12px white;
+}
+.useful-links  a:hover {
+    padding-left: 10px;
+    transition: .5s;
+    color: rgba(71, 71, 71, 0.768);
+}
+
+.hidden a:hover {
+    padding-left:10px ;
+    transition: 1s;
+    color: #a7a39c;
+    font-weight: bold;
+}
+
+
+/* drop down menu styles here */
